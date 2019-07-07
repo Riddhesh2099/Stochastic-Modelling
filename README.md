@@ -1,8 +1,8 @@
-# DTMC-ASP-1-
+# Applied Stochastic Processes Assignments
 <html>
   <body>
-    Simulation of a Discrete Time Markov Chain<br>
-    The uploaded file is a MATLAB LiveScript.
+    <br>
+    The uploaded files is a MATLAB LiveScript.
   </body>
 </html>
   
