@@ -2,7 +2,7 @@
 <html>
   <body>
     <br>
-    The uploaded files is a MATLAB LiveScript.
+    The uploaded files are MATLAB LiveScripts.
   </body>
 </html>
   
